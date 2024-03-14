@@ -1,4 +1,4 @@
-# Unit-2-Deliverables
+# Unit-2-Deliverables (TOC)
 Genome Project working on aligning and evaluating sequencing reads
 
 Deliverable 2A 
